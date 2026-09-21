@@ -1,4 +1,4 @@
 # Task Management Project:
 Task Manager API with role-based permissions, deadline reminders, Postman documentation, rate limiting, and optimized PostgreSQL queries.Integrated Email messages when task done. 
-Handles different Tasks Assigned to it and working on it.It has a number of tasks list to be done by it to solve it. It handles Tasks Efficiently. Its performs better.It Improvises mistakes and take care of it by patience and consistency.Overall improve your stress by reducing the works. It helps in scheduling tasks.It organises how you handle pressure.Maintains Harmony between people. It can solve critical situations. Helps in Analyzing problems.Solves correctly.
+Handles different Tasks Assigned to it and working on it.It has a number of tasks list to be done by it to solve it. It handles Tasks Efficiently. Its performs better.It Improvises mistakes and take care of it by patience and consistency.Overall improve your stress by reducing the works. It helps in scheduling tasks.It organises how you handle pressure.Maintains Harmony between people. It can solve critical situations. Helps in Analyzing problems.Solves correctly problem.
 
